@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "una-psc-alg-revisao-a1-ex03/1.0.0": {
+        "runtime": {
+          "una-psc-alg-revisao-a1-ex03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "una-psc-alg-revisao-a1-ex03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
